@@ -177,7 +177,7 @@ http://localhost:8000/api/docs/
 ## Areas of improvement
 - Pagination This would be useful for large datasets. It improves scalability by limited the amount of data returned in each response.
 
-- More complex query logic - Allow filtering patients' full name instead of their first name only. It omproves usability and accuracy.
+- More complex query logic - Allow filtering patients' full name instead of their first name only. It improves usability and accuracy.
 
 - Authentication/ Role based access - This ensures that the instructions are only accessed by authorized personnel.
 
