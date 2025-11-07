@@ -172,10 +172,10 @@ http://localhost:8000/api/docs/
 
 - I used the Django's built-in admin to create, update and delete instructions because it provides an interface for quick data management.
 
-- I added unit tests to check whether the endpoint return the correct data. This ensures accuracy.
+- I added unit tests to check whether the endpoint returns the correct data. This ensures accuracy.
 
 ## Areas of improvement
-- Pagination This would be useful for large datasets. It improves scalability by limited the amount of data returned in each response.
+- Pagination - This would be useful for large datasets. It improves scalability by limited the amount of data returned in each response.
 
 - More complex query logic - Allow filtering patients' full name instead of their first name only. It improves usability and accuracy.
 
